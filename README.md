@@ -86,11 +86,11 @@ ________________________________________________________________________________
 #### Los Datos 📂
 
 <details><summary>Fichero_Customer_Flight_Activity</summary>
-  <csv src="Promo-H-DA-modulo3-evaluacion-final-Paola_Sanchez\csv\Customer Flight Activity.csv" alt="Customer Flight Activity.csv">
+  <csv src="Promo-H-DA-modulo3-evaluacion-final-Paola_Sanchez\Archivos csv\Customer Flight Activity.csv" alt="Customer Flight Activity.csv">
 </details>
 
 <details><summary>Fichero_Customer_Loyalty_History</summary>
-  <csv src="Promo-H-DA-modulo3-evaluacion-final-Paola_Sanchez\csv\Customer Loyalty History.csv" alt="Customer Loyalty History.csv">
+  <csv src="Promo-H-DA-modulo3-evaluacion-final-Paola_Sanchez\Archivos csv\Customer Loyalty History.csv" alt="Customer Loyalty History.csv">
 </details>
     
 
