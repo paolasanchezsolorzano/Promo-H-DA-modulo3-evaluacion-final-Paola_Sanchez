@@ -51,16 +51,46 @@ ello, los pasos que deberas seguir son:
 |10.| **Análisis Descriptivo:** Agrupa los datos por nivel educativo y calcula estadísticas descriptivas básicas (como el promedio, la desviación estándar, los percentiles) del número de vuelos reservados para cada grupo. |
 |11.| **Prueba Estadística:** Realiza una prueba de A/B testing para determinar si existe una diferencia significativa en el número de vuelos reservados entre los diferentes niveles educativos. |
 
+______________________________________________________________________________________________________________________________________________________________
+
+**Contenido:** 💾
+   
+* Encontraras un Jupyter Notebook
+* Funciones para la visualizacion y limpieza de datos.
+* Gráficos que te ayudaran a tener una perspectiva visual de los datos contenidos en el DataFrame.
+* Encontraras la conclusión final de nuestro A/B Testing.
+
+
+#### Librerias que necesitaras 📚
+
+<details><summary>liberias a importar</summary>
+  
+#### Evaluar las distribuciones de las variables
+
+* **import pandas as pd**
+* **import numpy as np**
+
+#### Visualización.
+
+* **import matplotlib.pyplot as plt**
+* **import seaborn as sns**
+
+#### Evaluar la linealidad de las relaciones entre variables.
+#### Evaluar las distribuciones de las variables.
+
+* **import scipy**
+
+</details>
 </details>
 
-### Los Datos 📂
+#### Los Datos 📂
 
 <details><summary>Fichero_Customer_Loyalty_History</summary>
-  <csv src="linkcsv" alt="Customer Loyalty History.csv">
+  <csv src="Promo-H-DA-modulo3-evaluacion-final-Paola_Sanchez\csv\Customer Loyalty History.csv" alt="Customer Loyalty History.csv">
 </details>
 
 <details><summary>Fichero_Customer_Loyalty_History</summary>
-  <csv src="linkcsv" alt="Customer Flight Activity.csv">
+  <csv src="Promo-H-DA-modulo3-evaluacion-final-Paola_Sanchez\csv\Customer Flight Activity.csv" alt="Customer Flight Activity.csv">
 </details>
     
 
