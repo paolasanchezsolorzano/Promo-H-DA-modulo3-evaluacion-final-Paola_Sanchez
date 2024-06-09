@@ -54,8 +54,11 @@ ello, los pasos que deberas seguir son:
 ______________________________________________________________________________________________________________________________________________________________
 
 **Contenido:** 💾
-   
-* Encontraras un Jupyter Notebook
+
+Podras elegir entre reproducir este repositorio en un archivo python o un Jupyter Notebook, según tus preferencias:
+
+* Encontraras un folder con un archivo Jupyter Notebook.
+* Encontarras un folder con un archivo Python.
 * Funciones para la visualizacion y limpieza de datos.
 * Gráficos que te ayudaran a tener una perspectiva visual de los datos contenidos en el DataFrame.
 * Encontraras la conclusión final de nuestro A/B Testing.
@@ -79,7 +82,7 @@ Se realizaron ajustes o conversiones necesarias en las columnas
 
 * **Pieplot:** Un gráfico de pastel es un tipo de gráfico circular que muestra la proporción de cada categoría en un conjunto de datos. Cada categoría se representa por un sector del círculo y el tamaño del sector corresponde a la proporción de esa categoría en el conjunto de datos.
 
-**Regplot:**  Gráfico de regresión , muestra la relación entre dos variables numéricas mediante una línea de regresión. Es útil para visualizar la relación entre una variable independiente (eje x) y una variable dependiente (eje y) y para identificar patrones o tendencias en los datos.
+* **Regplot:**  Gráfico de regresión , muestra la relación entre dos variables numéricas mediante una línea de regresión. Es útil para visualizar la relación entre una variable independiente (eje x) y una variable dependiente (eje y) y para identificar patrones o tendencias en los datos.
 
 
 ***Evaluación de Diferencias en Reservas de Vuelos por Nivel Educativo:***
